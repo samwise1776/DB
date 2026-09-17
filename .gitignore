@@ -1,0 +1,7 @@
+/build/
+db/unit.db
+db/unit.db-shm
+db/unit.db-wal
+/dist/
+*.pyc
+__pycache__/
