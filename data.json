@@ -1,0 +1,12 @@
+{
+    "apps": {
+        "count": [
+            10,
+            "DSA",
+            "IDE",
+            "DB"
+        ],
+        "file & folders": "DSA       app.db       autosave  data.json  desktop  out             python  unitdb.egg-info MegaData  application  build     db         login    pyproject.toml  unitdb",
+        "readme": "# UnitMain\n* Utlities\n* Apps\n* More\n\n ## Megabytes\n 1\n ## Kilabytes\n 680996"
+    }
+}
